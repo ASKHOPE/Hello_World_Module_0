@@ -1,23 +1,18 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is Hello World Program written in Kotlin Langua which prints in the terminal.
 
-{Provide a description of your software}
-This is Hello World Program which prints in the terminal.
-{Describe your purpose for creating this software.}
+The purpose of this program creation is to meet the semesters requirement of technical setup of software and starting the course assignments week 1.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/SDxAqvAL6XY)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+JETBRAINS IDE was used in developing this software.
 
-{Describe the programming language that you used}
-
+Kotlin is the programming language used in this software.
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Kotlin Official Documentation](https://kotlinlang.org/docs/jvm-get-started.html)
+* [JetBrains IDE Official Doccumentation](https://kotlinlang.org/docs/jvm-get-started.html)
